@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Inkbound — Lore Studio",
+  "short_name": "Inkbound",
+  "description": "A personal studio for fictional universes and lore.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111110",
+  "theme_color": "#111110",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
